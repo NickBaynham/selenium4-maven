@@ -11,7 +11,7 @@ import static java.lang.invoke.MethodHandles.lookup;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.slf4j.LoggerFactory.getLogger;
 
-public class TestMain {
+public class BasicTest {
     static final Logger log = getLogger(lookup().lookupClass());
     private WebDriver driver;
 

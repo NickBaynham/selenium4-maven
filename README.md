@@ -6,3 +6,6 @@ browser driver everything is set up automatically.
 ```
 mvn verify
 ```
+
+# References
+Examples are taken from Hands On Selenium Webdriver, 2023 Boni Garcia
