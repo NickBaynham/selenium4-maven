@@ -36,3 +36,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Allure Test Results
+allure-results/
+
+### IDE
+.idea/
+.idea/workspace.xml
+### Screenshots
+*.png
